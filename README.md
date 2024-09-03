@@ -1,1 +1,1 @@
-Quantumult X Policy Icon Set
+Icons for Quantumult X Policy
